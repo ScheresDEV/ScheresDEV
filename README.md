@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeoScheresDEV
+- 👋 Hi, I’m @Leonardo
 - 👀 I’m interested in ...aprender programação e me tornar um profissional.
 - 🌱 I’m currently learning ...sobre linguagens de programação, ex: HTML, CSS E JAVA SCRIPT.
 - 💞️ I’m looking to collaborate on ...projetos que me ajudem a crescer nessa área.
